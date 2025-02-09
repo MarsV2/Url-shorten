@@ -1,0 +1,19 @@
+{
+  "name": "shortner",
+  "version": "1.0.0",
+  "description": "my projevt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "id": "^0.0.0",
+    "mongoose": "^8.10.0",
+    "short": "^2.6.0"
+  }
+}
